@@ -159,3 +159,15 @@ This project is available for educational purposes.
 - Scikit-learn documentation and community
 - Turkish NLP resources
 - Inspiration: Real-world sentiment analysis applications
+
+  ---
+
+## 📌 Project Note
+
+This application demonstrates a **complete ML deployment pipeline** (training → deployment → hosting). The model is trained on a demo dataset (45 samples) to showcase deployment capabilities rather than production-level accuracy.
+
+**Key Achievement:** Successfully deployed a working ML model with Streamlit Cloud, demonstrating end-to-end ML engineering skills for internship applications.
+
+**Production Improvements:** Larger dataset (10K+ samples), Turkish BERT models, user feedback system.
+
+---
